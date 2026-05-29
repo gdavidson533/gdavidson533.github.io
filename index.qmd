@@ -1,7 +1,9 @@
 ---
 title: "gdavidson533.github.io"
+subtitle: "Environmental Studies & Education Minor | UCSB | Sept 2023 – June 2027"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi everyone! Welcome to my page! I'm Gabriela, I go by Gabby, 
+and I am a 3rd year at UCSB. I love to travel, meet new people, 
+and explore nature! My hobbies include; reading, going on hikes, doing 
+yoga, going to the beach, and trying to learn Spanish!
