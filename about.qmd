@@ -34,3 +34,39 @@ leaflet() |>
   addMarkers(lng = -124.1400, lat = 41.0568, popup = "Trinidad, CA — Home") |>
   addMarkers(lng = -119.8489, lat = 34.4140, popup = "Santa Barbara, CA — UCSB")
 ```
+
+
+
+## Places I've Traveled!
+
+```{r}
+#| echo: false
+library(leaflet)
+
+leaflet() |>
+  addTiles() |>
+  addMarkers(lng = -124.1400, lat = 41.0568, popup = "🏠 Trinidad, CA — Hometown") |>
+  addMarkers(lng = -119.8489, lat = 34.4140, popup = "🎓 Santa Barbara, CA — UCSB") |>
+  addMarkers(lng = -86.2419, lat = 12.1328, popup = "🌍 Nicaragua") |>
+  addMarkers(lng = -83.7534, lat = 9.7489, popup = "🌍 Costa Rica") |>
+  addMarkers(lng = -43.1729, lat = -22.9068, popup = "🌍 Rio de Janeiro, Brazil") |>
+  addMarkers(lng = 2.1734, lat = 41.3851, popup = "🌍 Barcelona, Spain") |>
+  addMarkers(lng = -9.1393, lat = 38.7223, popup = "🌍 Lisbon, Portugal") |>
+  addMarkers(lng = -0.1276, lat = 51.5074, popup = "🌍 London, UK") |>
+  addMarkers(lng = 4.9041, lat = 52.3676, popup = "🌍 Amsterdam, Netherlands") |>
+  addMarkers(lng = 12.4964, lat = 41.9028, popup = "🌍 Rome, Italy") |>
+  addMarkers(lng = 14.2681, lat = 40.8518, popup = "🌍 Naples, Italy") |>
+  addMarkers(lng = -9.4162, lat = 38.9666, popup = "🌍 Ericeira, Portugal") |>
+  addMarkers(lng = -106.3468, lat = 56.1304, popup = "🌍 Canada") |>
+  addMarkers(lng = -157.8583, lat = 21.3069, popup = "🌍 Hawaii") |>
+  addMarkers(lng = -102.5528, lat = 23.6345, popup = "🌍 Mexico") |>
+  addMarkers(lng = 2.3522, lat = 48.8566, popup = "🌍 Paris, France") |>
+  addMarkers(lng = -74.0060, lat = 40.7128, popup = "🌍 New York, USA") |>
+  addMarkers(lng = -120.5542, lat = 43.8041, popup = "🌍 Oregon") |>
+  addMarkers(lng = -120.7401, lat = 47.7511, popup = "🌍 Washington") |>
+  addMarkers(lng = -116.4194, lat = 38.8026, popup = "🌍 Nevada") |>
+addMarkers(lng = 21.8243, lat = 39.0742, popup = "🌍 Greece") |>
+  addMarkers(lng = -105.8701, lat = 34.5199, popup = "🌍 New Mexico") |>
+  addMarkers(lng = -105.7821, lat = 39.5501, popup = "🌍 Colorado")
+
+```
