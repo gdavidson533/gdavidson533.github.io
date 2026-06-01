@@ -1,9 +1,34 @@
 ---
-title: "gdavidson533.github.io"
+title: "Gabriela Davidson"
 subtitle: "Environmental Studies & Education Minor | UCSB | Sept 2023 – June 2027"
+about:
+  template: trestles
+  image: headshot.png
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gabriela-davidson-b5725127a/
+    - icon: github
+      text: GitHub
+      href: https://github.com/gdavidson533ss
+    - icon: envelope
+      text: Email
+      href: gabrieladavidson@ucsb.edu
 ---
 
-Hi everyone! Welcome to my page! I'm Gabriela, I go by Gabby, 
-and I am a 3rd year at UCSB. I love to travel, meet new people, 
-and explore nature! My hobbies include; reading, going on hikes, doing 
+## Welcome!
+
+Hi everyone! Welcome to my page! I'm Gabriela, I go by Gabby,
+and I am a 3rd year at UCSB. I love to travel, meet new people,
+and explore nature! My hobbies include reading, going on hikes, doing
 yoga, going to the beach, and trying to learn Spanish!
+
+## Education
+University of California, Santa Barbara | BS in Environmental Studies; *Education Minor* | Sept 2023 - June 2027
+
+## Experience
+REEF Summer Camp Counselor
+
+CEC Student Worker
+
+Afterschool Program Leader

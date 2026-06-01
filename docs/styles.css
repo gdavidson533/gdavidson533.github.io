@@ -1,20 +1,19 @@
 /* css styles */
 /* Change navbar color */
 .navbar {
-  background-color: #FFF275 !important;
-}/* Change navbar text color */
-.navbar-brand, .nav-link {
-  color: #FF69B4!important;
+  background-color: #7FB5C1 !important;
 }
 
-/* Change heading font and color */
+.navbar-brand, .nav-link {
+  color: #ffffff !important;
+}
+
 h1, h2, h3 {
-  color: #A0E5F8;
+  color: #7FB5C1;
   font-family: "Georgia", serif;
 }
 
-/* Change body font */
 body {
+  background-color: #E8F4F0;
   font-family: "Helvetica Neue", sans-serif;
 }
-
