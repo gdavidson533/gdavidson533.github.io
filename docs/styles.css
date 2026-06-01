@@ -1,1 +1,20 @@
 /* css styles */
+/* Change navbar color */
+.navbar {
+  background-color: #FFF275 !important;
+}/* Change navbar text color */
+.navbar-brand, .nav-link {
+  color: #FF69B4!important;
+}
+
+/* Change heading font and color */
+h1, h2, h3 {
+  color: #A0E5F8;
+  font-family: "Georgia", serif;
+}
+
+/* Change body font */
+body {
+  font-family: "Helvetica Neue", sans-serif;
+}
+

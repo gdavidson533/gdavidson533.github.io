@@ -22,3 +22,15 @@ we have to teach the next generation to care about it too. My goal is
 to become an environmental educator who connects ecological science 
 with environmental justice, community, and place. I want students to see 
 themselves as part of nature, not separate from it.
+
+
+
+```{r}
+#| echo: false
+library(leaflet)
+
+leaflet() |>
+  addTiles() |>
+  addMarkers(lng = -124.1400, lat = 41.0568, popup = "Trinidad, CA — Home") |>
+  addMarkers(lng = -119.8489, lat = 34.4140, popup = "Santa Barbara, CA — UCSB")
+```
