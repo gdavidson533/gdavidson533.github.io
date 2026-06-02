@@ -1,0 +1,81 @@
+---
+title: "Grizzly Bear Reintroduction: A 4-6th Lesson Plan"
+date: 2025-05-01
+categories: [conservation, education]
+description: "A lesson plan connecting grizzly bear reintroduction and SB 1305 for 4th-6th students."
+---
+
+---
+title: "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan"
+date: 2025-05-01
+categories: [conservation, education]
+description: "A lesson plan connecting grizzly bear reintroduction and SB 1305 for K-12 students."
+---
+
+## Why Grizzly Bears?
+
+The California grizzly bear was declared extinct in 1922 — hunted to 
+elimination within decades of European settlement. Yet it remains on 
+our state flag. I believe restoring the grizzly is not just an 
+ecological question — it is a question of justice, history, and what 
+we owe to the land.
+
+## Historical Range of the California Grizzly
+
+Click the markers to learn about each region!
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(leaflet)
+
+historical_range <- data.frame(
+  name = c(
+    "Coast Ranges", "Central Valley", "Sierra Nevada",
+    "Klamath Mountains", "Transverse Ranges", "Peninsular Ranges"
+  ),
+  lat = c(37.5, 36.7, 37.8, 41.2, 34.3, 33.5),
+  lng = c(-122.0, -119.7, -119.3, -123.0, -117.8, -116.8),
+  description = c(
+    "Coastal grizzly habitat — bears foraged on beached whales and acorns",
+    "Once the most densely populated grizzly region in North America",
+    "High elevation summer range along the Sierra Nevada",
+    "Northern California mountains — last stronghold before extinction",
+    "Southern California mountains including the San Gabriel range",
+    "Southern range extending toward Baja California"
+  )
+)
+
+leaflet() |>
+  addProviderTiles(providers$Esri.WorldTopoMap) |>
+  setView(lng = -119.5, lat = 37.5, zoom = 6) |>
+  addCircleMarkers(
+    data = historical_range,
+    lat = ~lat, lng = ~lng,
+    radius = 18,
+    color = "#8B4513",
+    fillColor = "#CD853F",
+    fillOpacity = 0.6,
+    weight = 2,
+    popup = ~paste0("<b>", name, "</b><br>", description)
+  ) |>
+  addMarkers(
+    lng = -119.5, lat = 38.5,
+    popup = "<b>Proposed Reintroduction Zone</b><br>
+    The Northern Sierra Nevada and surrounding public lands 
+    are considered prime candidates for grizzly reintroduction 
+    under SB 1305."
+  ) |>
+  addLegend(
+    position = "bottomright",
+    colors = c("#CD853F", "#2d6a4f"),
+    labels = c("Historical grizzly range", "Proposed reintroduction zone"),
+    title = "Grizzly Bear in California"
+  )
+```
+
+## The Lesson Plan
+
+{{< pdf grizzly-lesson-plan.pdf >}}

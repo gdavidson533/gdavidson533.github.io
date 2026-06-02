@@ -13,7 +13,14 @@ h1, h2, h3 {
   font-family: "Georgia", serif;
 }
 
-body {
-  background-color: #E8F4F0;
-  font-family: "Helvetica Neue", sans-serif;
+.quarto-layout-panel img {
+  height: 180px;
+  width: 100%;
+  object-fit: cover;
+  padding: 2px;
+}
+
+.quarto-layout-cell {
+  padding: 2px !important;
+}
 }
