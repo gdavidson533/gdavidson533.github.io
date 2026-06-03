@@ -16,7 +16,7 @@ website:
       - href: projects.qmd
         text: Projects
       - href: fun.qmd
-        text: Free For All
+        text: Fun!
       - href: resume.qmd
         text: Resume
 

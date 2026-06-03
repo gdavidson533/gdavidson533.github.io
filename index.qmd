@@ -1,3 +1,4 @@
+
 ---
 title: "Gabriela Davidson"
 subtitle: "Environmental Studies & Education Minor | UCSB | Sept 2023 – June 2027"
@@ -5,15 +6,12 @@ about:
   template: trestles
   image: headshot.png
   links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/gabriela-davidson-b5725127a/
     - icon: github
       text: GitHub
-      href: https://github.com/gdavidson533ss
+      href: https://github.com/gdavidson533
     - icon: envelope
       text: Email
-      href: gabrieladavidson@ucsb.edu
+      href: mailto:gabrieladavidson533@gmail.com
 ---
 
 ## Welcome!
