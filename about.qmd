@@ -34,7 +34,7 @@ leaflet() |>
 
 
 ## Places I've Traveled!
-I love to travel and I am so grateful to have had the privilege and experience to be able to travel the world!
+I love to travel and I am so grateful to have had the privilege and time to do so. I have had a lot of fun and new learning experiences in each place. Here are some of the places I've been. 
 
 ```{r}
 #| echo: false

@@ -1,6 +1,9 @@
 ---
 title: "My Santa Barbara"
+image: sunset.JPG
 ---
+
+![Sunset from Lizards Mouth](sunset.JPG)
 
 Santa Barbara is so gorgeous and I love all the outdoor nature spots and yummy food. Here are some of my favorites around Santa Barbara and Goleta.   
 
