@@ -28,11 +28,11 @@
     "text": "What Drives Me\nGrowing up with such close access to the outdoors made me realize that not everyone has the same opportunity to connect with nature. I believe that everyone deserves access to the outdoors and the chance to grow a love for it. People experience nature in different ways, and those differences matter. That is why environmental justice and thoughtful considerations around representation and access are so important, especially when it comes to environmental education. Teaching about the environment means making sure everyone feels included in that story."
   },
   {
-    "objectID": "about.html#map-of-my-homes",
-    "href": "about.html#map-of-my-homes",
+    "objectID": "about.html#map-of-home",
+    "href": "about.html#map-of-home",
     "title": "About",
-    "section": "Map of my homes",
-    "text": "Map of my homes"
+    "section": "Map of Home",
+    "text": "Map of Home"
   },
   {
     "objectID": "about.html#places-ive-traveled",
@@ -53,7 +53,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "ENVS 193DS Midterm: Statistical Analysis\n\n\nStatistical analysis and data visualization of California halibut landings and bee pathogen loads across habitat types.\n\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrizzly Bear Reintroduction: A K-12 Lesson Plan\n\n\nA lesson plan connecting grizzly bear reintroduction and SB 1305 for K-12 students.\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Work Experience in Environmental Education\n\n\nRoles and experiences that have shaped my path toward environmental education.\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "My Work Experience in Environmental Education\n\n\nRoles and experiences that have shaped my path toward environmental education.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nENVS 193DS Midterm: Statistical Analysis\n\n\nStatistical analysis and data visualization of California halibut landings and bee pathogen loads across habitat types.\n\n\n\n\n\n\nJun 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrizzly Bear Reintroduction: A K-12 Lesson Plan\n\n\nA lesson plan connecting grizzly bear reintroduction and SB 1305 for K-12 students.\n\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/coding-project/index.html",
@@ -70,11 +70,39 @@
     "text": "In this midterm for ENVS 193DS, I worked with two datasets to practice statistical communication, data visualization, and reproducing analyses. I used R with tidyverse, janitor, rstatix, and gt packages to analyze California halibut landings and bee pathogen loads across habitat types.\n\n📄 View Full Midterm"
   },
   {
-    "objectID": "posts/job-experience/index.html",
-    "href": "posts/job-experience/index.html",
+    "objectID": "posts/job-experience/index.html#my-path-in-environmental-education",
+    "href": "posts/job-experience/index.html#my-path-in-environmental-education",
     "title": "My Work Experience in Environmental Education",
-    "section": "",
-    "text": "Content coming soon."
+    "section": "My Path in Environmental Education",
+    "text": "My Path in Environmental Education\nWorking directly with young people has been one of the most meaningful parts of my time at UCSB. Each of these roles has shaped my belief that hands-on, nature-based education is one of the most powerful tools we have for building a generation that cares about the environment."
+  },
+  {
+    "objectID": "posts/job-experience/index.html#leader-a-ok-afterschool-program",
+    "href": "posts/job-experience/index.html#leader-a-ok-afterschool-program",
+    "title": "My Work Experience in Environmental Education",
+    "section": "Leader, A-OK Afterschool Program",
+    "text": "Leader, A-OK Afterschool Program\nSanta Barbara, CA | March 2025 – Present\n\nSupervise and engage groups of 20+ children ages 4-12 in structured classroom-style activities\nLead academic and enrichment activities while creating a positive and inclusive environment\nCommunicate with staff and families to support student development"
+  },
+  {
+    "objectID": "posts/job-experience/index.html#education-chair-surfrider-isla-vista",
+    "href": "posts/job-experience/index.html#education-chair-surfrider-isla-vista",
+    "title": "My Work Experience in Environmental Education",
+    "section": "Education Chair, Surfrider Isla Vista",
+    "text": "Education Chair, Surfrider Isla Vista\nSanta Barbara, CA | September 2024 – Present\n\nDevelop and teach hands-on lessons on ocean health, coastal ecosystems, and marine conservation\nCreate lesson plans and activities for elementary and middle school students"
+  },
+  {
+    "objectID": "posts/job-experience/index.html#volunteer-staff-wilderness-youth-project",
+    "href": "posts/job-experience/index.html#volunteer-staff-wilderness-youth-project",
+    "title": "My Work Experience in Environmental Education",
+    "section": "Volunteer Staff, Wilderness Youth Project",
+    "text": "Volunteer Staff, Wilderness Youth Project\nSanta Barbara, CA | January 2025 – Present\n\nAssist in leading outdoor education such as wildlife tracking and plant identification\nFacilitate nature walks and field trips with nature-based learning for elementary-aged students"
+  },
+  {
+    "objectID": "posts/job-experience/index.html#relevant-coursework",
+    "href": "posts/job-experience/index.html#relevant-coursework",
+    "title": "My Work Experience in Environmental Education",
+    "section": "Relevant Coursework",
+    "text": "Relevant Coursework\nENVS 191 — Nature and Science Education Practicum\nOffered in conjunction with CCBER’s Kids in Nature environmental education program, I gained hands-on experience teaching ecology and environmental science to youth while receiving instruction from professionals on science education, teaching strategies, lesson plan development, and public speaking.\nENVS 127A — Foundations of Environmental Education\nAn introduction to the underlying principles of environmental education, including the fundamental characteristics and goals of EE, the evolution of the field, instructional methodologies, and how to design, implement, and assess effective EE instruction across a variety of disciplines including nature connection, environmental justice, outdoor education, and primary, secondary, and higher education.\nED 150 — Teaching and Teachers\nA foundational course exploring the nature of teaching as a specialized human activity and the organization and conduct of teaching in contemporary U.S. schools. This course helped me understand what it means to be an effective educator and how schools are structured to support student learning."
   },
   {
     "objectID": "resume.html",

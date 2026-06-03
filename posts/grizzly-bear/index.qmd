@@ -1,6 +1,6 @@
 ---
 title: "Grizzly Bear Reintroduction: A K-12 Lesson Plan"
-date: 2025-05-01
+date: 2025-06-01
 categories: [conservation, education]
 image: grizzlybear.png
 description: "A lesson plan connecting grizzly bear reintroduction and SB 1305 for K-12 students."
