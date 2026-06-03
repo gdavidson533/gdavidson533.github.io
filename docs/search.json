@@ -35,18 +35,11 @@
     "text": "Places I’ve Traveled!"
   },
   {
-    "objectID": "about.html#places-ive-traveled-1",
-    "href": "about.html#places-ive-traveled-1",
+    "objectID": "about.html#photos-from-travels",
+    "href": "about.html#photos-from-travels",
     "title": "About",
-    "section": "Places I’ve Traveled",
-    "text": "Places I’ve Traveled"
-  },
-  {
-    "objectID": "about.html#places-ive-traveled-2",
-    "href": "about.html#places-ive-traveled-2",
-    "title": "About",
-    "section": "Places I’ve Traveled",
-    "text": "Places I’ve Traveled"
+    "section": "Photos from travels!",
+    "text": "Photos from travels!"
   },
   {
     "objectID": "projects.html",
@@ -60,14 +53,14 @@
     "href": "posts/coding-project.html",
     "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
     "section": "",
-    "text": "The California grizzly bear was declared extinct in 1922 — hunted to elimination within decades of European settlement. Yet it remains on our state flag. I believe restoring the grizzly is not just an ecological question — it is a question of justice, history, and what we owe to the land."
+    "text": "Grizzly bear"
   },
   {
     "objectID": "posts/coding-project.html#why-grizzly-bears",
     "href": "posts/coding-project.html#why-grizzly-bears",
     "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
-    "section": "",
-    "text": "The California grizzly bear was declared extinct in 1922 — hunted to elimination within decades of European settlement. Yet it remains on our state flag. I believe restoring the grizzly is not just an ecological question — it is a question of justice, history, and what we owe to the land."
+    "section": "Why Grizzly Bears?",
+    "text": "Why Grizzly Bears?\nThe California grizzly bear was declared extinct in 1922 — hunted to elimination within decades of European settlement. Yet it remains on our state flag. I believe restoring the grizzly is not just an ecological question — it is a question of justice, history, and what we owe to the land. I have written a lesson plan for california elementary schoolers to learn about the Senate Bill 1305, TEK and possible reintroduction of the grizzly bear."
   },
   {
     "objectID": "posts/coding-project.html#historical-range-of-the-california-grizzly",
@@ -81,7 +74,7 @@
     "href": "posts/coding-project.html#the-lesson-plan",
     "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
     "section": "The Lesson Plan",
-    "text": "The Lesson Plan\n{{&lt; pdf grizzly-lesson-plan.pdf &gt;}}"
+    "text": "The Lesson Plan\n\n📄 View & Download Lesson Plan"
   },
   {
     "objectID": "index.html",

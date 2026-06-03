@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "posts/grizzly-bear/grizzly_bear_lesson_plan.pdf"
 
 
 website:

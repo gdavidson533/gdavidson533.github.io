@@ -12,13 +12,16 @@ categories: [conservation, education]
 description: "A lesson plan connecting grizzly bear reintroduction and SB 1305 for K-12 students."
 ---
 
+
+![Grizzly bear](grizzlybear.png)
+
 ## Why Grizzly Bears?
 
 The California grizzly bear was declared extinct in 1922 — hunted to 
 elimination within decades of European settlement. Yet it remains on 
 our state flag. I believe restoring the grizzly is not just an 
 ecological question — it is a question of justice, history, and what 
-we owe to the land.
+we owe to the land. I have written a lesson plan for california elementary schoolers to learn about the Senate Bill 1305, TEK and possible reintroduction of the grizzly bear. 
 
 ## Historical Range of the California Grizzly
 
@@ -78,4 +81,10 @@ leaflet() |>
 
 ## The Lesson Plan
 
-{{< pdf grizzly-lesson-plan.pdf >}}
+```{=html}
+<a href="grizzly_bear_lesson_plan.pdf" target="_blank" 
+style="background-color: #7FB5C1; color: white; padding: 10px 20px; 
+border-radius: 8px; text-decoration: none; font-size: 16px;">
+📄 View & Download Lesson Plan
+</a>
+```
