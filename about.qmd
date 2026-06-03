@@ -52,7 +52,7 @@ not everyone has the same opportunity to connect with nature.
 I believe that everyone deserves access to the outdoors and the chance to grow a love for it. People experience nature in different ways, and those  differences matter. That is why environmental justice and thoughtful considerations around representation and access are so important, especially when it comes to environmental education. Teaching about the environment means making sure everyone feels included in that story.
 
 
-## Map of my homes
+## Map of Home
 
 
 ```{r}
