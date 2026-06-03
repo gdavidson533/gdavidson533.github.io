@@ -2,11 +2,9 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/posts/job-experience/index.html",
-      "/posts/grizzly-bear/index.html",
       "/posts/coding-project/index.html",
-      "/posts/job-description.html",
-      "/posts/coding-project.html"
+      "/posts/grizzly-bear/index.html",
+      "/posts/job-experience/index.html"
     ]
   }
 ]

@@ -46,35 +46,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan\n\n\nA lesson plan connecting grizzly bear reintroduction and SB 1305 for 4th-6th students.\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\nNo matching items"
+    "text": "ENVS 193DS Midterm: Statistical Analysis\n\n\nStatistical analysis and data visualization of California halibut landings and bee pathogen loads across habitat types.\n\n\n\n\n\n\nMay 11, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrizzly Bear Reintroduction: A K-12 Lesson Plan\n\n\nA lesson plan connecting grizzly bear reintroduction and SB 1305 for K-12 students.\n\n\n\n\n\n\nMay 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy Work Experience in Environmental Education\n\n\nRoles and experiences that have shaped my path toward environmental education.\n\n\n\n\n\n\nApr 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/coding-project.html",
-    "href": "posts/coding-project.html",
-    "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
+    "objectID": "posts/coding-project/index.html",
+    "href": "posts/coding-project/index.html",
+    "title": "ENVS 193DS Midterm: Statistical Analysis",
     "section": "",
-    "text": "Grizzly bear"
+    "text": "In this midterm for ENVS 193DS, I worked with two datasets to practice statistical communication, data visualization, and reproducing analyses. I used R with tidyverse, janitor, rstatix, and gt packages to analyze California halibut landings and bee pathogen loads across habitat types.\n\n📄 View Full Midterm"
   },
   {
-    "objectID": "posts/coding-project.html#why-grizzly-bears",
-    "href": "posts/coding-project.html#why-grizzly-bears",
-    "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
-    "section": "Why Grizzly Bears?",
-    "text": "Why Grizzly Bears?\nThe California grizzly bear was declared extinct in 1922 — hunted to elimination within decades of European settlement. Yet it remains on our state flag. I believe restoring the grizzly is not just an ecological question — it is a question of justice, history, and what we owe to the land. I have written a lesson plan for california elementary schoolers to learn about the Senate Bill 1305, TEK and possible reintroduction of the grizzly bear."
+    "objectID": "posts/coding-project/index.html#overview",
+    "href": "posts/coding-project/index.html#overview",
+    "title": "ENVS 193DS Midterm: Statistical Analysis",
+    "section": "",
+    "text": "In this midterm for ENVS 193DS, I worked with two datasets to practice statistical communication, data visualization, and reproducing analyses. I used R with tidyverse, janitor, rstatix, and gt packages to analyze California halibut landings and bee pathogen loads across habitat types.\n\n📄 View Full Midterm"
   },
   {
-    "objectID": "posts/coding-project.html#historical-range-of-the-california-grizzly",
-    "href": "posts/coding-project.html#historical-range-of-the-california-grizzly",
-    "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
-    "section": "Historical Range of the California Grizzly",
-    "text": "Historical Range of the California Grizzly\nClick the markers to learn about each region!"
-  },
-  {
-    "objectID": "posts/coding-project.html#the-lesson-plan",
-    "href": "posts/coding-project.html#the-lesson-plan",
-    "title": "Grizzly Bear Reintroduction: A 4th-6th Lesson Plan",
-    "section": "The Lesson Plan",
-    "text": "The Lesson Plan\n\n📄 View & Download Lesson Plan"
+    "objectID": "posts/job-experience/index.html",
+    "href": "posts/job-experience/index.html",
+    "title": "My Work Experience in Environmental Education",
+    "section": "",
+    "text": "Content coming soon."
   },
   {
     "objectID": "resume.html",
@@ -82,6 +75,34 @@
     "title": "Resume",
     "section": "",
     "text": "📄 View & Download Resume"
+  },
+  {
+    "objectID": "posts/grizzly-bear/index.html",
+    "href": "posts/grizzly-bear/index.html",
+    "title": "Grizzly Bear Reintroduction: A K-12 Lesson Plan",
+    "section": "",
+    "text": "The California grizzly bear was declared extinct in 1922 — hunted to elimination within decades of European settlement. Yet it remains on our state flag. I believe restoring the grizzly is not just an ecological question — it is a question of justice, history, and what we owe to the land."
+  },
+  {
+    "objectID": "posts/grizzly-bear/index.html#why-grizzly-bears",
+    "href": "posts/grizzly-bear/index.html#why-grizzly-bears",
+    "title": "Grizzly Bear Reintroduction: A K-12 Lesson Plan",
+    "section": "",
+    "text": "The California grizzly bear was declared extinct in 1922 — hunted to elimination within decades of European settlement. Yet it remains on our state flag. I believe restoring the grizzly is not just an ecological question — it is a question of justice, history, and what we owe to the land."
+  },
+  {
+    "objectID": "posts/grizzly-bear/index.html#historical-range-of-the-california-grizzly",
+    "href": "posts/grizzly-bear/index.html#historical-range-of-the-california-grizzly",
+    "title": "Grizzly Bear Reintroduction: A K-12 Lesson Plan",
+    "section": "Historical Range of the California Grizzly",
+    "text": "Historical Range of the California Grizzly\nClick the markers to learn about each region!"
+  },
+  {
+    "objectID": "posts/grizzly-bear/index.html#the-lesson-plans",
+    "href": "posts/grizzly-bear/index.html#the-lesson-plans",
+    "title": "Grizzly Bear Reintroduction: A K-12 Lesson Plan",
+    "section": "The Lesson Plans",
+    "text": "The Lesson Plans\n\n📄 Lesson Plan Part 1\n\n\n\n📄 Lesson Plan Part 2"
   },
   {
     "objectID": "fun.html",
@@ -130,6 +151,6 @@
     "href": "index.html#experience",
     "title": "Gabriela Davidson",
     "section": "Experience",
-    "text": "Experience\nREEF Summer Camp Counselor\nCEC Student Worker\nAfterschool Program Leader"
+    "text": "Experience\nREEF Summer Camp Counselor\nCalifornia Energy Commission - Student Worker\nAfter school Program Leader - at Harding Elementary\nAS Zero Waste - Activities Coordinator\nIV Surfrider - Education Co-chair"
   }
 ]

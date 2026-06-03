@@ -1,0 +1,22 @@
+ ---
+title: "ENVS 193DS Midterm: Statistical Analysis"
+date: 2026-05-11
+image: flower.jpg
+categories: [R, statistics, data visualization]
+description: "Statistical analysis and data visualization of California halibut landings and bee pathogen loads across habitat types."
+---
+
+## Overview
+
+In this midterm for ENVS 193DS, I worked with two datasets to practice 
+statistical communication, data visualization, and reproducing analyses. 
+I used R with tidyverse, janitor, rstatix, and gt packages to analyze 
+California halibut landings and bee pathogen loads across habitat types.
+
+```{=html}
+<a href="Midterm_gabriela_davidson-1.pdf" target="_blank" 
+style="background-color: #7FB5C1; color: white; padding: 10px 20px; 
+border-radius: 8px; text-decoration: none; font-size: 16px;">
+📄 View Full Midterm
+</a>
+```
