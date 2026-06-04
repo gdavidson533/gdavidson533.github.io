@@ -6,7 +6,7 @@ project:
 
 
 website:
-  title: "gdavidson533.github.io"
+  title: "Gabriela Davidson"
   navbar:
     left:
       - href: index.qmd
