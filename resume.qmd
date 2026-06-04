@@ -1,21 +1,25 @@
 ---
 title: "Resume"
 toc: false
+body-classes: resume-page
 ---
 
-## My Professional Experience
+:::{.text-panel}
+# **My Professional Experience**
 
 My experience spans environmental education, youth programming, 
 community organizing, and small business development. I have worked 
 directly with youth in afterschool programs, outdoor education, and 
 coastal conservation outreach, while also serving in leadership roles 
-in campus sustainability and environmental advocacy. I am passionate 
-about connecting people to the environment 
-and to each other.
+in campus sustainability and environmental advocacy.
 
-For a formal write-up of my experiences, feel free to check out my 
-resume below:
+I am passionate about connecting people to the environment and to each 
+other. I believe that hands-on, place-based education is one of the 
+most powerful tools we have for building a generation that cares about 
+the world around them.
 
-```{=html}
-<iframe src="Resume/gabriela_davidson.resume.pdf#toolbar=0&navpanes=0&view=fitH" width="100%" height="900px" style="border: none; margin-top: 20px;"></iframe>
-```
+For those interested in seeing a formal write-up of my experiences, 
+feel free to check out my resume below:
+
+<iframe src="Resume/gabriela_davidson.resume.pdf" width="100%" height="800px"></iframe>
+:::
